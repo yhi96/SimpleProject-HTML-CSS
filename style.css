@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.title {
+    color: #4caf50;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+button{
+    padding: 10px 20px; 
+    background-color: #4caf50;
+    color: white;
+    text-decoration: none;  
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+button:hover {
+    background-color: #45a049;
+
+}
+
+#message {
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+
+}
